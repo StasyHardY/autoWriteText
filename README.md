@@ -1,0 +1,3 @@
+# autoWriteText
+
+Simple typping text
